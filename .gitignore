@@ -1,0 +1,7 @@
+# File types #
+##############
+*.pyc
+*.swo
+*.swp
+*.swn
+
